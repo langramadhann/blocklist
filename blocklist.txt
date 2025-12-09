@@ -1,1 +1,2 @@
 0.0.0.0 dana.id
+0.0.0.0 youtube.com
